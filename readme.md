@@ -16,20 +16,10 @@
 
 ## Certificações obtidas
 
-<style>
-.certification-images {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-@media (max-width: 600px) {
-    .certification-images {
-        flex-direction: column;
-    }
-}
-</style>
 
-<div class="certification-images">
+<div style="display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;">
     <img src="./assets/img/linux-para-iniciantes.png" alt="Linux para Iniciantes" style="max-width:150px;">
     <img src="assets/img/linux-do-zero.png" alt="Linux do Zero" style="max-width:150px;">
     <img src="assets/img/linux-fundamentals.png" alt="Linux Fundamentals" style="max-width:150px;">
