@@ -20,7 +20,7 @@ Ele foi desenvolvido para facilitar a administração e a gestão de usuários n
 ## 🎓 Certificados Obtidos
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-    <img src="./assets/img/linux-para-iniciantes.png" alt="Linux para Iniciantes" style="width:20rem; height:auto;">
+    <img src="assets/img/linux-para-iniciantes.png" alt="Linux para Iniciantes" style="width:20rem; height:auto;">
     <img src="assets/img/linux-do-zero.png" alt="Linux do Zero" style="max-width:20rem; height:auto;">
     <img src="assets/img/linux-fundamentals.png" alt="Linux Fundamentals" style="max-width:20rem; height:auto;">
     <img src="assets/img/linux-experience.png" alt="Linux Experience" style="max-width:20rem; height:auto;">
