@@ -15,10 +15,10 @@
 
 ## Certificações obtidas
 
-<img src="./assets/img/linux-para-iniciantes.png" alt="Linux para Iniciantes" style="max-width:150px;">
-<img src="assets/img/linux-do-zero.png" alt="Linux do Zero" style="max-width:150px;">
-<img src="assets/img/linux-fundamentals.png" alt="Linux Fundamentals" style="max-width:150px;">
-<img src="assets/img/linux-experience.png" alt="Linux Experience" style="max-width:150px;">
+<img src="./assets/img/linux-para-iniciantes.png" alt="Linux para Iniciantes" style="width:15rem;">
+<img src="assets/img/linux-do-zero.png" alt="Linux do Zero" style="width:15rem;">
+<img src="assets/img/linux-fundamentals.png" alt="Linux Fundamentals" style="width:15rem;">
+<img src="assets/img/linux-experience.png" alt="Linux Experience" style="width:15rem;">
 
 ---
 ---
